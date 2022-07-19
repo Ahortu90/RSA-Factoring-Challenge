@@ -1,19 +1,19 @@
-# RSA-Factoring-Challenge
+RSA Factoring Challenge
 <hr>
 
-## Resources
+![video](src/Project%20RSA%20Factoring%20Challenge%20_%20Accra%20Intranet.mkv)
+
+We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents
+
+**Resources
 Read or watch:
 
-RSA (https://alx-intranet.hbtn.io/rltoken/VvijGiyWnPt8LDZjICgl1w)
+**RSA
+**How does HTTPS provide security?
+**Prime Factorization
 
-How does HTTPS provide security? (https://alx-intranet.hbtn.io/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
-
-Prime Factorization (https://alx-intranet.hbtn.io/rltoken/kYixcru2uFRtLzb29NjiHg)
-
-
-## Requirements
-
-General:
-
-	You can choose the language of your choice.
-	OS needs to be Standard Ubuntu 20.04 LTS/
+**************
+**Requirements
+    **General
+You can choose the language of your choice.
+OS needs to be Standard Ubuntu 20.04 LTS/
