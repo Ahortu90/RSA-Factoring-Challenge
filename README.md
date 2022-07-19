@@ -1,4 +1,4 @@
-[![Watch the video](https://www.youtube.com/watch?v=tGSUjuSBt1A)](https://www.youtube.com/watch?v=tGSUjuSBt1A)
+[![Watch the video](https://youtu.be/tGSUjuSBt1A)](https://youtu.be/tGSUjuSBt1A)
 
 RSA Factoring Challenge\
 \
