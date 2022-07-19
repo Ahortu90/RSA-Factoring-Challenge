@@ -1,4 +1,4 @@
-![image](src/R.jfif <https://youtu.be/tGSUjuSBt1A>)
+![image](src/R.jfif)
 
 
 RSA Factoring Challenge\
